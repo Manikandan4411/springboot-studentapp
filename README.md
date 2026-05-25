@@ -26,16 +26,14 @@ GET /students
 
 ## Run the Application
 
-Database Configuration
-
-Update application.properties with your PostgreSQL credentials.
-
-Author
-
-Manikandan S
-
 ```bash
 mvn spring-boot:run
+```
 
+## Database Configuration
 
+Update `application.properties` with your PostgreSQL credentials.
 
+## Author
+
+Manikandan S
