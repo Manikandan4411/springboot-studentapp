@@ -42,7 +42,7 @@
 		<dependency>
 			<groupId>org.postgresql</groupId>
 			<artifactId>postgresql</artifactId>
-			<scope>runtime</scope>
+			<scope>rumvn clean installntime</scope>
 		</dependency>
 		<dependency>
 			<groupId>org.projectlombok</groupId>
